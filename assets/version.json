@@ -1,6 +1,6 @@
 {
-  "versionCode": 37,
-  "versionName": "6.35",
+  "versionCode": 38,
+  "versionName": "6.36",
   "apkUrl": "https://github.com/Werner-Sch/ESP32-S3-Sechskanal-Android-Updates/releases/latest/download/app-release.apk",
   "changelog": "Neue Version der ESP32-S3-Sechskanalsteuerung mit Verbesserungen und Erweiterungen."
 }
